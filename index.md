@@ -7,7 +7,7 @@ I also worked previously at [Etihad Airways](https://www.etihad.com) as a Senior
 ---
 You can contact me at numan.saeed@mbzuai.ac.ae
 
-<a href="https://numanai.github.io/pdf/cv/CV_Numan_Saeed_Feb_2023.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=VMPEU20AAAAJ&hl=en&oi=ao), [LinkedIn](https://ae.linkedin.com/in/numansaeed-pk), [Github](https://github.com/numanai)
+<a href="https://numanai.github.io/cv/CV_Numan_Saeed_Feb_2023.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=VMPEU20AAAAJ&hl=en&oi=ao), [LinkedIn](https://ae.linkedin.com/in/numansaeed-pk), [Github](https://github.com/numanai)
 <!-- Remove above link if you don't want to attibute -->
 
 
