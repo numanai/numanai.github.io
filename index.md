@@ -1,88 +1,111 @@
-I am a PhD student at the [Center for Data Science](https://cds.nyu.edu/) at NYU advised by Professor [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/) and a Visiting Researcher in the Fundamental AI Research (FAIR) group at Meta AI where I work with [Brandon Amos](http://bamos.github.io/).  I am currently interested in designing robust models that can generalize well in-distribution and out-of-distribution, alongside the closely related question of understanding and quantifying the generalization properties of deep neural networks. 
+I am a PhD student at the [BioMedIA lab](https://mbzuai-biomedia.com/biomedia/) at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)] (https://mbzuai.ac.ae/) advised by Professor [Mohammad Yaqub](https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/). I am currently interested in developing  AI-based solutions for health-related problems. I am interested in exploring self-supervised learning and multimodal learning to solve disease diagnosis and prognosis problems. 
 
-My PhD research has been recognized with an **[ICML Outstanding Paper Award](https://icml.cc/virtual/2022/poster/17991)** and is generously supported by the [Microsoft Research PhD Fellowship](https://nyudatascience.medium.com/cds-students-sanae-lotfi-and-lucius-bynum-receive-the-microsoft-research-phd-fellowship-63ce04660227), the [DeepMind Fellowship](https://nyudatascience.medium.com/deepmind-fellow-profile-sanae-lotfi-9197c0c5fb94), the Meta AI Mentorship Program and the NYU Center for Data Science Fellowship! 
+Prior to MBZUAI, I obtained a master’s degree in Microsystems Engineering from [Masdar Institute of Science and Technology (now Khalifa University)](https://www.ku.ac.ae/). I was fortunate to work there with [Dr. Jaime Viegas]([https://cde.nus.edu.sg/ece/staff/jerald-yoo/](https://www.ku.ac.ae/college-people/jaime-viegas) to model and characterize Piezoelectric Micromachined Ultrasonic Transducers (PMUTs), a type of MEMS device that can generate and detect ultrasound waves.
 
-Prior to NYU, I obtained a master’s degree in applied mathematics from [Polytechnique Montreal](https://www.polymtl.ca/). I was fortunate to work there with Professors [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/) and [Dominique Orban](https://dpo.github.io/) to design stochastic first- and second-order algorithms with compelling theoretical and empirical properties for machine learning and large-scale optimization. I was awarded the **[Best Master's Thesis Award in Applied Mathematics and Industrial Engineering](https://www.gerad.ca/en/posts/903)** for this work. I also hold a master's degree in general engineering and applied mathematics from [CentraleSupélec](https://www.centralesupelec.fr/en).
-
-In summer 2022, I was fortunate to work with [Bernie Wang](http://web.mit.edu/~ywang02/www/) and [Richard Kurle](https://scholar.google.fr/citations?user=q2YBN34AAAAJ&hl=en) at Amazon as an Applied Scientist Intern. 
+I also worked previously at [Etihad Airways] (https://www.etihad.com/en-ae/?CID=PPC-UAE-GOOGLE&gclid=EAIaIQobChMInZOXobOP_QIVYRoGAB29igBvEAAYASAAEgK9qvD_BwE&gclsrc=aw.ds) as a Senior Analytics Specialist to build solutions for passenger bookings forecasting, predicting ancillary revenue, and Churn predictions.
 
 ---
-You can contact me at sl8160@nyu.edu
+You can contact me at numan.saeed@mbzuai.ac.ae
 
-<a href="https://sanaelotfi.github.io/pdf/cv/CV_Sanae_lotfi_Dec_2022.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=0GyjMX4AAAAJ&authuser=2), [LinkedIn](https://www.linkedin.com/in/sanae-lotfi-636825127), [Twitter](https://twitter.com/lotfisanae), [Github](https://github.com/Sanaelotfi)
+<a href="https://sanaelotfi.github.io/pdf/cv/CV_Numan_Saeed_Feb_2023.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=VMPEU20AAAAJ&hl=en&oi=ao), [LinkedIn](https://ae.linkedin.com/in/numansaeed-pk), [Github](https://github.com/numanai)
 <!-- Remove above link if you don't want to attibute -->
 
 
 ---
+### News!
+
+-News goes here.
+
+---
 ### Publications 
 
-**[PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization](https://arxiv.org/abs/2211.13609)** \
-**Sanae Lotfi<sup>\*</sup>**, Marc Finzi<sup>\*</sup>, Sanyam Kapoor<sup>\*</sup>, Andres Potapczynski<sup>\*</sup>, Micah Goldblum, Andrew Gordon Wilson \
-_Neural Information Processing Systems (NeurIPS), 2022_
+**[Biomedical image analysis competitions: The state of current participation practice](https://arxiv.org/pdf/2212.08568.pdf)** \
+**Submitted** \
+_Conference on Computer Vision and Pattern (CVPR), 2023_ \
 
 
-**[Bayesian Model Selection, the Marginal Likelihood, and Generalization](https://arxiv.org/abs/2202.11678)** \
-**Sanae Lotfi**, Pavel Izmailov, Gregory Benton, Micah Goldblum, Andrew Gordon Wilson \
-_International Conference on Machine Learning (ICML), 2022_ \
-**Long oral presentation, top 2% submissions** \
-**Outstanding Paper Award** \
-[[arxiv](https://arxiv.org/pdf/2202.11678.pdf), [code](https://github.com/Sanaelotfi/Bayesian_model_comparison), <a href="https://sanaelotfi.github.io/pdf/posters/LML_Poster_ICML_2022.pdf" target="_blank">poster</a>, [talk](https://slideslive.com/38983095/bayesian-model-selection-the-marginal-likelihood-and-generalization), <a href="https://sanaelotfi.github.io/pdf/slides/conference_presentations/LML_Sanae_Lotfi_ICML_2022.pdf" target="_blank">slides</a>]
+**[TMSS: An End-to-End Transformer-Based Multimodal Network for Segmentation and Survival Prediction](https://arxiv.org/pdf/2209.05036.pdf)** \
+**Numan Saeed**, Ikboljon Sobirov, Roba Al Majzoub, Mohammad Yaqub \
+_Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022_ \
 
 
-**[Adaptive First-and Second-Order Algorithms for Large-Scale Machine Learning](https://arxiv.org/abs/2111.14761)** \
-**Sanae Lotfi**, Tiphaine Bonniot de Ruisselet, Dominique Orban, Andrea Lodi \
-_Annual Conference on Machine Learning, Optimization, and Data Science (LOD), 2022_ \
-**Oral presentation**\
-[[arxiv](https://arxiv.org/pdf/2111.14761.pdf)]
-
-**[Evaluating Approximate Inference in Bayesian Deep Learning](https://proceedings.mlr.press/v176/wilson22a/wilson22a.pdf)** \
-Andrew Gordon Wilson, **Sanae Lotfi**, Sharad Vikram, Matthew D. Hoffman, Yarin Gal, Yingzhen Li, Melanie F. Pradier, Andrew Foong, Sebastian Farquhar, Pavel Izmailov \
-_NeurIPS Competition and Demonstration Track, Proceedings of Machine Learning Research (PMLR), 2022_ \
-[[plmr](https://proceedings.mlr.press/v176/wilson22a/wilson22a.pdf), [code](https://github.com/izmailovpavel/neurips_bdl_starter_kit), [website](https://izmailovpavel.github.io/neurips_bdl_competition/)]
+**[An ensemble approach for patient prognosis of head and neck tumor using multimodal data](https://arxiv.org/pdf/2202.12537.pdf)** \
+**Numan Saeed**, Roba Al Majzoub, Ikboljon Sobirov, and Mohammad Yaqub \
+_HECKTOR Competition, Held in Conjunction with MICCAI, 2022_ \
 
 
-**[Dangers of Bayesian Model Averaging under Covariate Shift](https://arxiv.org/abs/2106.11905)** \
-Pavel Izmailov, Patrick Nicholson, **Sanae Lotfi**, Andrew Gordon Wilson \
-_Neural Information Processing Systems (NeurIPS), 2021_ \
-[[arxiv](https://arxiv.org/abs/2106.11905), [code](https://github.com/izmailovpavel/bnn_covariate_shift), <a href="https://sanaelotfi.github.io/pdf/posters/BMA_Dangers_Poster_NeurIPS_2021.pdf" target="_blank">poster</a>]
+**[Is it Possible to Predict MGMT Promoter Methylation from Brain Tumor MRI Scans using Deep Learning Models?](https://arxiv.org/abs/2201.06086)** \
+**Numan Saeed**, Shahad Hardan, Kudaibergen Abutalip, Mohammad Yaqub\
+_Medical Imaging with Deep Learning (MIDL), 2022_ \
 
-**[Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling](https://arxiv.org/abs/2102.13042)** \
-Gregory W. Benton, Wesley J. Maddox, **Sanae Lotfi**, Andrew Gordon Wilson \
-_International Conference on Machine Learning (ICML), 2021_ \
-**Spotlight presentation** \
-[[arxiv](https://arxiv.org/abs/2102.13042), [code](https://github.com/g-benton/loss-surface-simplexes), <a href="https://sanaelotfi.github.io/pdf/slides/conference_presentations/Loss_Surface_Simplexes_ICML_2021.pdf" target="_blank">slides</a>]
 
-**[Stochastic Damped L-BFGS with Controlled Norm of the Hessian Approximation](https://arxiv.org/abs/2012.05783)**\
-**Sanae Lotfi**, Tiphaine B. de Ruisselet, Dominique Orban, Andrea Lodi \
-_SIAM Conference on Optimization, 2021_ \
-**Oral presentation** \
-_NeurIPS Optimization for Machine Learning Workshop, 2020_ \
-**Spotlight presentation** \
-[[arxiv](https://arxiv.org/abs/2012.05783)]
+**[Evaluating impact damage in Kevlar/carbon composites by using laser vibrometry and active infrared thermography](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/el.2020.1373)** \
+DA Derusova, VP Vavilov, AO Chulkov, BI Shagdirov, **N Saeed**, M Omar \
+_Electronics Letters, 2020_ \
 
-**[Stochastic First and Second Order Optimization Methods for Machine Learning](https://publications.polymtl.ca/5457/)** \
-**Sanae Lotfi** \
-_Master's Thesis, 2020_ \
-**Best Thesis Award in Applied Mathematics at Polytechnique Montreal** \
-Polytechnique Montreal
 
-<sup>*</sup>: Equal first authorship. 
 
----
-### Surveys
+**[Evaluating quality of marquetries by applying active IR thermography and advanced signal processing](https://link.springer.com/article/10.1007/s10973-020-09326-2)** \
+AO Chulkov, S Sfarra, **N Saeed**, J Peeters, C Ibarra-Castanedo, G Gargiulo, G Steenackers, XPV Maldague, MA Omar, V Vavilov \
+_Journal of Thermal Analysis and Calorimetry, 2020_ \
 
-**<a href="https://sanaelotfi.github.io/pdf/project_reports/pac_bayes_bounds_survey.pdf" target="_blank">Understanding the Generalization of Deep Neural Networks through PAC-Bayes bounds </a>**\
-Andres Potapczynski, Sanae Lotfi, Anthony Chen, Chris Ick \
-Class Project for the Mathematics of Deep Learning, CS-GA 3033, Spring 2022
 
-**<a href="https://sanaelotfi.github.io/pdf/project_reports/causal_representation_learning_survey.pdf" target="_blank">Causal Representation Learning </a>**\
-Sanae Lotfi, Taro Makino, Lily Zhang \
-Class Project for Inference and Representation, DS-GA 1005, Fall 2021
+**[MEMS multi-vibrating ring gyroscope for space applications](https://link.springer.com/article/10.1007/s00542-020-04793-x)**\
+Waqas Amin Gill, Dima Ali, Boo Hyun An, Wajih U. Syed, **Numan Saeed**, Muneera Al-shaibah, Ibrahim M. Elfadel, Sultan Al Dahmani & Daniel S. Choi \
+_Microsystem Technologies, 2020_ \
 
----
-### Selected Media Coverage
 
-**[Scholar Q&A: Sanae](https://www.deepmind.com/scholarships/scholars/sanae)**, DeepMind, 2021 
+**[Sensitivity and robustness of neural networks for defect-depth estimation in CFRP composites](https://link.springer.com/article/10.1007/s10921-019-0607-4)** \
+**Numan Saeed**, Houda Al Zarkani, Mohammed A Omar \
+_Journal of Nondestructive Evaluation, 2019_ \
 
-**[DeepMind Fellow Profile: Sanae Lotfi](https://nyudatascience.medium.com/deepmind-fellow-profile-sanae-lotfi-9197c0c5fb94)**, NYU Center for Data Science, 2020
+**[Optimizing input data for training an artificial neural network used for evaluating defect depth in infrared thermographic nondestructive testing](https://www.sciencedirect.com/science/article/abs/pii/S135044951930235X)** \
+AO Chulkov, DA Nesteruk, VP Vavilov, AI Moskovchenko, **N Saeed**, M Omar \
+_Infrared Physics & Technology, 2019_ \
+
+**[Automatic defects detection in CFRP thermograms, using convolutional neural networks and transfer learning](https://www.sciencedirect.com/science/article/abs/pii/S1350449519303135)** \
+**Numan Saeed**,Nelson King a, Zafar Said b, Mohammed A. Omar \
+_Infrared Physics & Technology, 2019_ \
+
+
+**[Sensor Design Migration: The Case of a VRG](https://ieeexplore.ieee.org/abstract/document/8781892/)** \
+Wajih U Syed, Boo Hyun An, Waqas Amin Gill, **Numan Saeed**, Muneera Al-Shaibah, Sultan Al Dahmani, Daniel Choi, Ibrahim Abe M Elfadel\
+_IEEE Sensors Journal, 2019_ \
+
+
+**[Experimentally validated defect depth estimation using artificial neural network in pulsed thermography](https://www.sciencedirect.com/science/article/abs/pii/S1350449519300532)** \
+**Numan Saeed**, Yusra Abdulrahman, Saed Amer, Mohammed A Omar\
+_Infrared Physics & Technology, 2019_ \
+
+**[A neural network approach for quantifying defects depth for nondestructive testing thermograms](https://www.sciencedirect.com/science/article/pii/S1350449518304535)** \
+**Numan Saeed**, Mohammed A Omar, Yusra Abdulrahman\
+_Infrared Physics & Technology, 2018_ \
+
+**[IR thermographic analysis of 3D printed CFRP reference samples with back-drilled and embedded defects](https://link.springer.com/article/10.1007/s10921-018-0512-2)** \
+**Numan Saeed**, Mohammed A Omar, Yusra Abdulrahman, Sultan Salem, Ahmad Mayyas\
+_Journal of Nondestructive Evaluation, 2018_ \
+
+
+**[A multiband rf mems switch with low insertion loss and cmos-compatible pull-in voltage](https://ieeexplore.ieee.org/abstract/document/8394202)** \
+Alabi Bojesomo, **Numan Saeed**, Ibrahim M Elfadel\
+_Symposium on Design, Test, Integration & Packaging of MEMS and MOEMS (DTIP), 2018_ \
+
+**[Piezoelectric micromachined ultrasonic transducers and micropumps: from design to optomicrofluidic applications](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10061/100610S/Piezoelectric-micromachined-ultrasonic-transducers-and-micropumps--from-design-to/10.1117/12.2254733.short?SSO=1)** \
+Shadi Khazaaleh, **Numan Saeed**, Inas Taha, Mateusz T Madzik, Jaime Viegas\
+_Microfluidics, BioMEMS, and Medical Microsystems XV, 2017_ \
+
+
+**[pMUT+ ASIC integrated platform for wide range ultrasonic imaging](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10064/1/pMUTASIC-integrated-platform-for-wide-range-ultrasonic-imaging/10.1117/12.2252181.short)** \
+J Tillak, **N Saeed**, S Khazaaleh, J Viegas, J Yoo\
+_Photons Plus Ultrasound: Imaging and Sensing, 2017_ \
+
+**[Stochastic versus Robust Optimization of wind-hydro power plant's operational strategy](https://zorays.com/wp-content/uploads/2016/10/Stochastic-versus-Robust-Optimization-of-WindHydro-Power-Plant-Operational-Strategy-Zorays-Wind-Zorays-Hydro.pdf)** \
+MS Javaid, **Numan Saeed**, AT Al-Awami, Zorays Khalid\
+_International Multi-Topic Conference (INMIC), 2016_ \
+
+
+**[Automatic protocol configuration in single-channel low-power dynamic signaling for IoT devices](https://ieeexplore.ieee.org/abstract/document/7753560)** \
+Shahzad Muzaffar, **Numan Saeed**, Ibrahim M Elfadel\
+_IEEE International Conference on Very Large Scale Integration (VLSI-SoC), 2016_ \
+
 
