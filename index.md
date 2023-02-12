@@ -1,13 +1,13 @@
-I am a PhD student at the [BioMedIA lab](https://mbzuai-biomedia.com/biomedia/) at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)] (https://mbzuai.ac.ae/) advised by Professor [Mohammad Yaqub](https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/). I am currently interested in developing  AI-based solutions for health-related problems. I am interested in exploring self-supervised learning and multimodal learning to solve disease diagnosis and prognosis problems. 
+I am a PhD student at the [BioMedIA lab](https://mbzuai-biomedia.com/biomedia/) at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/) advised by Professor [Mohammad Yaqub](https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/). I am currently interested in developing  AI-based solutions for health-related problems. I am interested in exploring self-supervised learning and multimodal learning to solve disease diagnosis and prognosis problems. 
 
-Prior to MBZUAI, I obtained a master’s degree in Microsystems Engineering from [Masdar Institute of Science and Technology (now Khalifa University)](https://www.ku.ac.ae/). I was fortunate to work there with [Dr. Jaime Viegas]([https://cde.nus.edu.sg/ece/staff/jerald-yoo/](https://www.ku.ac.ae/college-people/jaime-viegas) to model and characterize Piezoelectric Micromachined Ultrasonic Transducers (PMUTs), a type of MEMS device that can generate and detect ultrasound waves.
+Prior to MBZUAI, I obtained a master’s degree in Microsystems Engineering from [Masdar Institute of Science and Technology (now Khalifa University)](https://www.ku.ac.ae/). I was fortunate to work there with [Dr. Jaime Viegas](https://www.ku.ac.ae/college-people/jaime-viegas) to model and characterize Piezoelectric Micromachined Ultrasonic Transducers (PMUTs), a type of MEMS device that can generate and detect ultrasound waves.
 
-I also worked previously at [Etihad Airways] (https://www.etihad.com/en-ae/?CID=PPC-UAE-GOOGLE&gclid=EAIaIQobChMInZOXobOP_QIVYRoGAB29igBvEAAYASAAEgK9qvD_BwE&gclsrc=aw.ds) as a Senior Analytics Specialist to build solutions for passenger bookings forecasting, predicting ancillary revenue, and Churn predictions.
+I also worked previously at [Etihad Airways](https://www.etihad.com) as a Senior Analytics Specialist to build solutions for passenger bookings forecasting, predicting ancillary revenue, and Churn predictions.
 
 ---
 You can contact me at numan.saeed@mbzuai.ac.ae
 
-<a href="https://sanaelotfi.github.io/pdf/cv/CV_Numan_Saeed_Feb_2023.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=VMPEU20AAAAJ&hl=en&oi=ao), [LinkedIn](https://ae.linkedin.com/in/numansaeed-pk), [Github](https://github.com/numanai)
+<a href="https://numanai.github.io/pdf/cv/CV_Numan_Saeed_Feb_2023.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=VMPEU20AAAAJ&hl=en&oi=ao), [LinkedIn](https://ae.linkedin.com/in/numansaeed-pk), [Github](https://github.com/numanai)
 <!-- Remove above link if you don't want to attibute -->
 
 
