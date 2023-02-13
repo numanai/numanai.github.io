@@ -24,6 +24,12 @@ You can contact me at numan.saeed@mbzuai.ac.ae
 _Conference on Computer Vision and Pattern (CVPR), 2023_ 
 
 
+**[MGMT promoter methylation status prediction using MRI scans? An extensive experimental evaluation of deep learning models](https://www.sciencedirect.com/journal/medical-image-analysis)** \
+**Under Review** \
+**Numan Saeed**, Muhammad Ridzuan, Ikboljon Sobirov, Hussain Alasmawi, Mohammad Yaqub \
+_Medical Image Analysis_ 
+
+
 **[TMSS: An End-to-End Transformer-Based Multimodal Network for Segmentation and Survival Prediction](https://arxiv.org/pdf/2209.05036.pdf)** \
 **Numan Saeed**, Ikboljon Sobirov, Roba Al Majzoub, Mohammad Yaqub \
 _Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022_ 
