@@ -20,6 +20,8 @@ You can contact me at numan.saeed@mbzuai.ac.ae
 - **[Jan-2022]** 1 Paper accepted at MIDL 2022.
 - **[Oct-2021]** 1 Paper accepted at MICCAI competition track.
 - **[Aug-2021]** Won the MiCCAI-Hecktor Prognosis competition.
+- **[Jan-2021]** Awarded Graduate Student Fellowship for PhD. at Mohamed Bin Zayed University of Artificial Intelligence.
+
 ---
 ### Publications 
 
