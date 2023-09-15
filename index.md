@@ -16,6 +16,9 @@ You can contact me at numan.saeed@mbzuai.ac.ae
 ---
 ### News!
 
+- **[June-2023]** Started as Visiting Researcher at TUM
+- **[June-2023]** 1 Paper accepted at Journal of Bioengineering.
+- **[June-2023]** 1 Paper accepted at MIUA 2023.
 - **[Mar-2023]** 1 Paper accepted at MIDL 2023.
 - **[Feb-2023]** Serving as a reviewer at MICCAI-2023. 
 - **[Aug-2022]** Awarded the student travel award for MICCAI 2022 conference.
