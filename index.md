@@ -32,7 +32,6 @@ You can contact me at numan.saeed@mbzuai.ac.ae
 ### Publications 
 
 **[Biomedical image analysis competitions: The state of current participation practice](https://arxiv.org/pdf/2212.08568.pdf)** \
-**Submitted** \
 _Conference on Computer Vision and Pattern (CVPR), 2023_ 
 
 
